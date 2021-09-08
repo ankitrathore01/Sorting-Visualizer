@@ -143,7 +143,7 @@ else {
               <Button variant="light" onClick={() => this.mergeSort()} style={{ marginLeft: '.20rem' }} size="sm">Merge Sort</Button>
               <Button variant="light" onClick={() => this.bubbleSort()} style={{ marginLeft: '.20rem' }} size="sm">Bubble Sort</Button>
               <Button variant="light" onClick={() => this.resetArray()} style={{ marginLeft: '.5rem' }} >Generate new array</Button>
-              <Nav.Link href="https://github.com/chuganilokesh" style={{ marginRight: '.5rem' }}>rathore_06</Nav.Link>
+              <Nav.Link href="https://github.com/ankitrathore01" style={{ marginRight: '.5rem' }}>rathore_06</Nav.Link>
             </Nav>
 
 
